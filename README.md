@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**blessyanna/blessyanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm Blessy, a content developer passionate about creating clear and engaging technical documentation. 
 
 - 🔭 I’m currently working on : Technical documentations for software projects
@@ -13,4 +10,4 @@ I'm Blessy, a content developer passionate about creating clear and engaging tec
 - 📫 How to reach me: Email
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm an author of a book😂
--->
+
